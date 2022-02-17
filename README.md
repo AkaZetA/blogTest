@@ -1,4 +1,4 @@
 # blogTest
 Welcome ! ^^
 
-https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqblg3TEUzS1VPaHNhMm1RUW1KRWtPSmY0UmxTQXxBQ3Jtc0ttZGtrLTc2bW4xQUtFVlZtUTJIWktFd05IMFhJVXRBZVhtcDNjT1lfUE1CeDlnR3R4Z09ILThKcmdrYVlFQXpJZXFrTlZlYVZIaEZjWUZyUTBROXlObEoxakYyUHhOSlY4Xzl6UnJIMUZkR01zSGdTNA&q=https%3A%2F%2Fguides.github.com%2Ffeatures%2Fmastering-markdown%2F&v=gzxSnyLoSgY
+https://akazeta.github.io/blogTest/
