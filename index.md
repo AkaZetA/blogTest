@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Zune Blog
 
 You can use the [editor on GitHub](https://github.com/AkaZetA/blogTest/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
